@@ -14,5 +14,13 @@
             "directory": "src/common/menu",
             "module": "common.menu"
         }
+    },
+    "data": {
+        "options": {
+            "repository": "https://username:password@bitbucket.org/polarcape/module.common.filters.git",
+            "branch": "develop",
+            "directory": "src/common/menu",
+            "module": "common.data"
+        }
     }
 }
