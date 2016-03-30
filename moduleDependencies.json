@@ -1,7 +1,7 @@
 {
     "configuration": {
         "options": {
-            "repository": "https://username:password@bitbucket.org/polarcape/module.common.filters.git",
+            "repository": "https://github.com/gkopevski/2015.java2days.configuration.git",
             "branch": "develop",
             "directory": "src/common/configuration",
             "module": "common.configuration"
@@ -9,7 +9,7 @@
     },
     "menu": {
         "options": {
-            "repository": "https://username:password@bitbucket.org/polarcape/module.common.filters.git",
+            "repository": "https://github.com/gkopevski/2015.java2days.menu.git",
             "branch": "develop",
             "directory": "src/common/menu",
             "module": "common.menu"
@@ -17,7 +17,7 @@
     },
     "data": {
         "options": {
-            "repository": "https://username:password@bitbucket.org/polarcape/module.common.filters.git",
+            "repository": "https://github.com/gkopevski/2015.java2days.data.git",
             "branch": "develop",
             "directory": "src/common/menu",
             "module": "common.data"
